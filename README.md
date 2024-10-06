@@ -15,3 +15,11 @@ CREATE TABLE users (
     username VARCHAR(255) NOT NULL UNIQUE,        -- User's username, must be unique
     password VARCHAR(255) NOT NULL                 -- User's password
 );
+
+
+# Output
+![Screenshot 2024-10-06 181831](https://github.com/user-attachments/assets/cb05ab29-1242-44af-bf62-cd0cfe327f3d)
+![Screenshot 2024-10-06 182223](https://github.com/user-attachments/assets/cd0be6f8-a4b4-4b83-b903-de8ee2e427d8)
+ ![Screenshot 2024-10-06 182300](https://github.com/user-attachments/assets/e6bc5915-81d8-4efd-acaa-001bfd050fa3)
+
+
